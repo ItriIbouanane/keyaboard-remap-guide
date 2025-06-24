@@ -1,4 +1,4 @@
-# keyaboard-remap-guide
+# keyboard-remap-guide
 A user-friendly guide to remap keyboard keys in Linux.
 
 ### Knowledge base
